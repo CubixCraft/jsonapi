@@ -1,2 +1,2 @@
-CraftBukkit build 1.4.2-R0.2
-Vault 1.2.15
+CraftBukkit build 1.4.5-R0.3
+Vault 1.2.22
